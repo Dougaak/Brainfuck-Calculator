@@ -71,3 +71,6 @@ Given spare time (and maybe a extremely boring vocation), following update optio
 * Essential input checking
 * Larger range for result
 * Comment on the source code
+
+## **License**
+This source code is unlicensed. Any user can distribute or modify it freely, although a reference to the author would be appreciated.
