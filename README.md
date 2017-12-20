@@ -2,7 +2,7 @@
 A very simple calculator written in Brainfuck.
 
 ## **Author**
-Douglas Liu \
+**Douglas Liu** \
 Github: <https://github.com/DouglasLiuGamer>
 
 ## **Description**
