@@ -16,7 +16,8 @@ The consequences of range overflow is undefined.
 
 ## **Usage Manual**
 ### **Running the Calculator**
-Please choose a Brainfuck compiler or interpreter to run the source code.
+Please choose a Brainfuck compiler or interpreter to run the source code. \
+One may consider using the Brainfuck interpreter written by the same author: <https://github.com/DouglasLiuGamer/Brainfuck-Interpreter>
 
 ### **Basic steps**
 1. Input the first positive integral operant.
