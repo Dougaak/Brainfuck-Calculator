@@ -68,7 +68,7 @@ Support integral remainder.
 ## **Update Plan**
 Currently there is no update plan for this Brainfuck program.
 
-Given spare time (and maybe a extremely boring vocation), following update options may be considered:
+Given spare time (and maybe an extremely boring vocation), following update options may be considered:
 * Essential input checking
 * Larger range for result
 * Comment on the source code
