@@ -1,10 +1,6 @@
 # **Brainfuck-Calculator**
 A very simple calculator written in Brainfuck.
 
-## **Author**
-**Douglas Liu** \
-Github: <https://github.com/DouglasLiuGamer>
-
 ## **Description**
 This is a very simple Brainfuck calculator program which supports **addition**, **subtraction**, **multiplication** and **division** on two **positive integral operants**.
 
